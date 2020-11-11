@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hakusan-Map app</string>
+    <string name="title_information">写真を撮る</string>
+    <string name="title_map">Map</string>
+    <string name="title_movie">動画</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
